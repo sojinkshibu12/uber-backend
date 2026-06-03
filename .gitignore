@@ -1,0 +1,100 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+logs/
+log/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.*
+
+# Application Secrets
+application-local.yml
+application-local.yaml
+application-dev.yml
+application-dev.yaml
+application-prod.yml
+application-prod.yaml
+
+# Docker
+docker-compose.override.yml
+
+# Redis
+dump.rdb
+
+# Kafka
+/kafka-logs/
+*.lock
+
+# MySQL
+mysql-data/
+*.sql.gz
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+
+# Lombok
+.lombok
+
+# Test Reports
+surefire-reports/
+failsafe-reports/
+
+# Spring Boot
+spring.log
+
+# JAR/WAR Files
+*.jar
+*.war
+*.ear
+
+# Coverage Reports
+coverage/
+jacoco.exec
+/site/
+
+# Generated files
+generated/
