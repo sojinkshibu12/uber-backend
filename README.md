@@ -1,5 +1,5 @@
-# Ride-Sharing Backend System
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/sojinkshibu12/uber-backend.git)
+# Uber Style Backend System
+
 
 ## Overview
 This repository contains the backend for a ride-sharing application, inspired by Uber. It is built using a microservices architecture, with services communicating asynchronously via Kafka. The system handles ride requests, driver location tracking, and matching riders with nearby drivers.
